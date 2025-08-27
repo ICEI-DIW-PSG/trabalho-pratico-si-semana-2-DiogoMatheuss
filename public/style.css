@@ -1,0 +1,64 @@
+header{
+    border: 3px solid black;
+    background-color: lightcyan;
+    margin: 5px;
+    display: flex;
+    justify-content: left;
+    
+}
+.menu {
+    margin-top: 30px;
+    margin-left: 1350px;
+    text-decoration: none;
+    color: red;
+}
+
+
+
+.p1 {
+    margin-left: 15px;
+}
+img{
+    border: 3px solid black;
+    border-radius: 10%;
+}
+.p2 {
+    border-radius: 10%;
+    margin: 10px;
+}
+.esq{
+    
+    border: 3px solid black;
+    background-color: bisque;
+    float: left;
+    flex-direction: column;
+width: 18%;
+height: 650px;
+}
+.dir{ 
+    border: 3px solid black;
+    height: 650px  ;
+    width: 81%;
+    background-color: bisque;
+    float: right;
+}
+.d1{
+margin: 50px;
+
+}
+.d2{
+    margin: 50px;
+
+}
+section{
+    
+}
+.dir1{
+    margin: 50px;
+    display: flex;
+}
+.e1{
+    margin: 15px;
+    text-align: left;
+    font-size: 18px;
+}
